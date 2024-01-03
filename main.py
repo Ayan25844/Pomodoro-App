@@ -67,7 +67,7 @@ def countDown(count):
 
         startTimer()
 
-        mark=" "
+        mark=""
         work_session=math.floor(reps/2)
 
         for i in range(work_session):
